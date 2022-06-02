@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">made and remade continually, Passionate about computers</h3>
 
 <p align="left"> <a href="https://twitter.com/m_shalaan0" target="blank"><img src="https://img.shields.io/twitter/follow/m_shalaan0?logo=twitter&style=for-the-badge" alt="m_shalaan0" /></a> </p>
 
